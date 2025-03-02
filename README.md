@@ -4,7 +4,7 @@ Check out my [portfolio](https://korbystrube.dev) website to see my work and pro
 
 ## Interactive 3D Earth Component
 
-![Animated 3D Earth Globe](peepeee.gif)
+![Animated 3D Earth Globe](pepeeee.gif)
 
 This is an interactive 3D Earth globe component built with..
 
