@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Check out my [portfolio](https://korbystrube.dev) website to see my work and projects ![Animated pepeee](pepeeee.gif) 
+Check out my [portfolio](https://korbystrube.dev) website to see my work and projects 
+![Animated pepeee](pepeeee.gif) 
 
 
 
