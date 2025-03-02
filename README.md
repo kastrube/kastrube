@@ -4,7 +4,7 @@ Check out my [portfolio](https://korbystrube.dev) website to see my work and pro
 
 ## Interactive 3D Earth Component
 
-![Animated 3D Earth Globe](<div class="tenor-gif-embed" data-postid="9770276395005744447" data-share-method="host" data-aspect-ratio="0.909091" data-width="100%"><a href="https://tenor.com/view/pepeeee-gif-9770276395005744447">Pepeeee Sticker</a>from <a href="https://tenor.com/search/pepeeee-stickers">Pepeeee Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
+![Animated 3D Earth Globe]()
 
 This is an interactive 3D Earth globe component built with [mention technologies used, e.g., Three.js, React Three Fiber]..
 
