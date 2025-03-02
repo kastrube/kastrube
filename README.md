@@ -6,7 +6,7 @@ Check out my [portfolio](https://korbystrube.dev) website to see my work and pro
 
 ![Animated 3D Earth Globe]()
 
-This is an interactive 3D Earth globe component built with [mention technologies used, e.g., Three.js, React Three Fiber]..
+This is an interactive 3D Earth globe component built with [mention technologies used, e.g., Three.js, React Three Fiber](pepeeee.gif)..
 
 [See it live](#live-demo)  (Link to a live demo - see point 2 below)
 <!--
