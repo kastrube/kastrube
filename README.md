@@ -1,6 +1,14 @@
 ## Hi there 👋
 
 Check out my [portfolio](https://korbystrube.dev) website to see my work and projects
+
+## Interactive 3D Earth Component
+
+![Animated 3D Earth Globe](https://tenor.com/view/pepeeee-gif-9770276395005744447)
+
+This is an interactive 3D Earth globe component built with [mention technologies used, e.g., Three.js, React Three Fiber]..
+
+[See it live](#live-demo)  (Link to a live demo - see point 2 below)
 <!--
 **kastrube/kastrube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
