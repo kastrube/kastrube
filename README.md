@@ -3,7 +3,7 @@
 
 ## My Portfolio Website##
 
-Check out my portfolio website to see my work and projects: [My Portfolio](korbystrube.dev)
+Check out [my portfolio website](korbystrube.dev)to see my work and projects
 <!--
 **kastrube/kastrube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
