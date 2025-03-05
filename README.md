@@ -1,9 +1,9 @@
 ---
 ###  Hi there 👋 
 
-###  Check out my [portfolio](https://korbystrube.dev) website to see my work and projects
+###  Check out my [portfolio](https://www.korbystrube.dev) website to see my work and projects
 
-### ![Animated pepeee](pepeeee.gif) 
+
 
 
 
